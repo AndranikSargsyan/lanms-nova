@@ -1,0 +1,6 @@
+__pycache__
+build
+lanms_nova.egg-info
+.idea
+venv
+dist
