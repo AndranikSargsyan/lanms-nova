@@ -4,7 +4,7 @@ from setuptools import setup, Extension
 
 setup(
     name="lanms-nova",
-    version="1.0.1",
+    version="1.0.3",
     author="Andranik Sargsyan",
     author_email="and.sargsyab@yahoo.com",
     description="lanms-nova is a python binding for LANMS - Locality-Aware Non-Max Suppression",
